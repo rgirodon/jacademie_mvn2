@@ -1,0 +1,57 @@
+2014-11-07 12:07:27,933 [main] INFO  org.jacademie.secondmvn.App - Hello World with Maven !
+2014-11-07 12:07:27,933 [main] INFO  org.jacademie.secondmvn.App - Hello
+2014-11-07 12:07:27,933 [main] INFO  org.jacademie.secondmvn.App - World
+2014-11-07 12:07:27,933 [main] INFO  org.jacademie.secondmvn.App - with
+2014-11-07 12:07:27,933 [main] INFO  org.jacademie.secondmvn.App - Maven
+2014-11-07 12:07:27,933 [main] INFO  org.jacademie.secondmvn.App - !
+2014-11-07 12:27:06,105 [main] INFO  org.jacademie.secondmvn.App - Hello World with Maven !
+2014-11-07 12:27:06,115 [main] INFO  org.jacademie.secondmvn.App - Hello
+2014-11-07 12:27:06,115 [main] INFO  org.jacademie.secondmvn.App - World
+2014-11-07 12:27:06,115 [main] INFO  org.jacademie.secondmvn.App - with
+2014-11-07 12:27:06,115 [main] INFO  org.jacademie.secondmvn.App - Maven
+2014-11-07 12:27:06,115 [main] INFO  org.jacademie.secondmvn.App - !
+2014-11-07 14:36:40,584 [main] INFO  org.jacademie.secondmvn.App - Hello World with Maven !
+2014-11-07 14:36:40,594 [main] INFO  org.jacademie.secondmvn.App - Hello
+2014-11-07 14:36:40,594 [main] INFO  org.jacademie.secondmvn.App - World
+2014-11-07 14:36:40,594 [main] INFO  org.jacademie.secondmvn.App - with
+2014-11-07 14:36:40,594 [main] INFO  org.jacademie.secondmvn.App - Maven
+2014-11-07 14:36:40,594 [main] INFO  org.jacademie.secondmvn.App - !
+2014-11-07 14:36:40,654 [main] INFO  org.jacademie.secondmvn.App - Debut de la finale : 1998-07-12T21:00:00.000+02:00
+2014-11-07 14:36:40,654 [main] INFO  org.jacademie.secondmvn.App - On mène 2-0 : 1998-07-12T21:45:00.000+02:00
+2014-11-07 14:36:40,654 [main] INFO  org.jacademie.secondmvn.App - On est les champions : 1998-07-12T22:45:00.000+02:00
+2014-11-07 14:45:35,184 [main] INFO  org.jacademie.secondmvn.App - Hello World with Maven !
+2014-11-07 14:45:35,184 [main] INFO  org.jacademie.secondmvn.App - Hello
+2014-11-07 14:45:35,194 [main] INFO  org.jacademie.secondmvn.App - World
+2014-11-07 14:45:35,194 [main] INFO  org.jacademie.secondmvn.App - with
+2014-11-07 14:45:35,194 [main] INFO  org.jacademie.secondmvn.App - Maven
+2014-11-07 14:45:35,194 [main] INFO  org.jacademie.secondmvn.App - !
+2014-11-07 14:45:35,234 [main] INFO  org.jacademie.secondmvn.App - Debut de la finale : dim. 12 juillet, 1998
+2014-11-07 14:45:35,234 [main] INFO  org.jacademie.secondmvn.App - On mène 2-0 : dim. 12 juillet, 1998
+2014-11-07 14:45:35,234 [main] INFO  org.jacademie.secondmvn.App - On est les champions : dim. 12 juillet, 1998
+2014-11-07 14:46:04,088 [main] INFO  org.jacademie.secondmvn.App - Hello World with Maven !
+2014-11-07 14:46:04,088 [main] INFO  org.jacademie.secondmvn.App - Hello
+2014-11-07 14:46:04,088 [main] INFO  org.jacademie.secondmvn.App - World
+2014-11-07 14:46:04,088 [main] INFO  org.jacademie.secondmvn.App - with
+2014-11-07 14:46:04,088 [main] INFO  org.jacademie.secondmvn.App - Maven
+2014-11-07 14:46:04,088 [main] INFO  org.jacademie.secondmvn.App - !
+2014-11-07 14:46:04,138 [main] INFO  org.jacademie.secondmvn.App - Debut de la finale : dim. 12 juillet, 1998 : 21:0
+2014-11-07 14:46:04,138 [main] INFO  org.jacademie.secondmvn.App - On mène 2-0 : dim. 12 juillet, 1998 : 21:45
+2014-11-07 14:46:04,138 [main] INFO  org.jacademie.secondmvn.App - On est les champions : dim. 12 juillet, 1998 : 22:45
+2014-11-07 14:46:17,930 [main] INFO  org.jacademie.secondmvn.App - Hello World with Maven !
+2014-11-07 14:46:17,930 [main] INFO  org.jacademie.secondmvn.App - Hello
+2014-11-07 14:46:17,930 [main] INFO  org.jacademie.secondmvn.App - World
+2014-11-07 14:46:17,930 [main] INFO  org.jacademie.secondmvn.App - with
+2014-11-07 14:46:17,930 [main] INFO  org.jacademie.secondmvn.App - Maven
+2014-11-07 14:46:17,930 [main] INFO  org.jacademie.secondmvn.App - !
+2014-11-07 14:46:17,980 [main] INFO  org.jacademie.secondmvn.App - Debut de la finale : dim. 12 juillet, 1998 : 21:00
+2014-11-07 14:46:17,980 [main] INFO  org.jacademie.secondmvn.App - On mène 2-0 : dim. 12 juillet, 1998 : 21:45
+2014-11-07 14:46:17,980 [main] INFO  org.jacademie.secondmvn.App - On est les champions : dim. 12 juillet, 1998 : 22:45
+2014-11-07 15:07:35,805 [main] INFO  org.jacademie.secondmvn.App - Hello World with Maven !
+2014-11-07 15:07:35,805 [main] INFO  org.jacademie.secondmvn.App - Hello
+2014-11-07 15:07:35,805 [main] INFO  org.jacademie.secondmvn.App - World
+2014-11-07 15:07:35,805 [main] INFO  org.jacademie.secondmvn.App - with
+2014-11-07 15:07:35,805 [main] INFO  org.jacademie.secondmvn.App - Maven
+2014-11-07 15:07:35,805 [main] INFO  org.jacademie.secondmvn.App - !
+2014-11-07 15:07:35,855 [main] INFO  org.jacademie.secondmvn.App - Debut de la finale : dim. 12 juillet, 1998 : 21:00
+2014-11-07 15:07:35,855 [main] INFO  org.jacademie.secondmvn.App - On mène 2-0 : dim. 12 juillet, 1998 : 21:45
+2014-11-07 15:07:35,865 [main] INFO  org.jacademie.secondmvn.App - On est les champions : dim. 12 juillet, 1998 : 22:45
